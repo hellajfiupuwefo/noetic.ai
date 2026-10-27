@@ -1,0 +1,6 @@
+{
+  "name": "Noetic - AI Study Engine & Active Recall Tutor",
+  "description": "Transform notes into intelligent interactive quizzes, spaced repetition flashcards, executive study briefs, and grounded AI tutoring with citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
